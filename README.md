@@ -4,9 +4,8 @@ A script to show which puck is which (I'm always forgetting)
 
 ![](screenshot.png)
 
-```
+```bash
 npm install -g ls-puck
-
 
 ls-puck
 ```
@@ -18,3 +17,5 @@ ls-puck
 ### todo
 
 * implement battery levels
+* write stuff better
+* link to ide?
