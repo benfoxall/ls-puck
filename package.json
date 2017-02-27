@@ -1,0 +1,17 @@
+{
+  "name": "ls-puck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benfoxall/ls-puck.git",
+  "author": "Ben Foxall <benfoxall@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "noble": "^1.8.0"
+  },
+  "bin": {
+    "ls-puck": "./bin/ls-puck.js"
+  }
+}
